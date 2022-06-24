@@ -1,0 +1,17 @@
+.taskBox{
+    width:30% !important;
+    margin:auto !important;
+    
+}
+.btn{
+    margin-right: 5px !important;
+    margin-left: 10px !important;
+}
+.todoContainer{
+    padding: 5px;
+    border: 1px solid blue;
+    
+    width:40% !important;
+    margin: auto !important;
+    margin-bottom: 5px !important;
+}
