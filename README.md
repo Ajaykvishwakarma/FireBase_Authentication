@@ -1,4 +1,4 @@
-# ZoomX World!
+# Firebase Auth World!
 
 Thanks for visiting [Firebase Auth site](https://authentications-77696.web.app)!
 
@@ -21,7 +21,7 @@ These are the components outlined in Firebase Auth site. All Firebase Auth compo
 
 ### Image
 
-![alt text](https://raw.githubusercontent.com/Ajaykvishwakarma/Images/main/zoomx_img/logo.png)
+![alt text](https://www.gstatic.com/devrel-devsite/prod/v1a2d2d725c48303ffd65eb7122e57032dbf9bb148227658cacdfddf0dcae1e46/firebase/images/lockup.svg)
 
 ---
 ### Landing page
